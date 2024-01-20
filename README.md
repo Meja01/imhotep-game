@@ -6,8 +6,8 @@ This project was developed as part of the  Objektorientierte Programmierung 1 at
 Integrated real-time communication with the server using ```net::Client```, focusing on network protocol adherence and message parsing. Implemented AI algorithms to process game states and make strategic decisions, demonstrating skills in C++ programming and algorithmic thinking. Designed the client for robust performance, including handling end-game scenarios, which refined problem-solving and software development skills.
 
 ## Contributors
-- Faris Mujcinagic [(@fmujcinagic)](https://github.com/fmujcinagic)
 - Fedja Mulabegovic [(@fedjamulabegovic)](https://github.com/fedjamulabegovic)
+- Faris Mujcinagic [(@fmujcinagic)](https://github.com/fmujcinagic)
 - Milan Mejic
 
 ### First time setup
