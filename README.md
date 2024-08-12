@@ -8,7 +8,7 @@ Integrated real-time communication with the server using ```net::Client```, focu
 ## Contributors
 - Fedja Mulabegovic [(@fedjamulabegovic)](https://github.com/fedjamulabegovic)
 - Faris Mujcinagic [(@fmujcinagic)](https://github.com/fmujcinagic)
-- Milan Mejic
+- Milan Mejic [(@Meja01)](https://github.com/Meja01)
 
 ### First time setup
 Run ```setup.sh``` linux/macOS or ```setup.bat``` on windows. 
